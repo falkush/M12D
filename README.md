@@ -7,6 +7,10 @@ To control the camera, the game recenters your mouse cursor in the middle of the
 # Video
 Coming Soon
 
+# Requirement
+
+Java Runtime Environment (https://www.java.com/en/download/)
+
 # Controls
 w: go foward
 
